@@ -29,7 +29,7 @@ public class Sugar implements Snapshot {
 	/* (non-Javadoc)
 	 * @see wota.gameobjects.Snapshot#hasSameOriginal(wota.gameobjects.Snapshot)
 	 */
-	@Override
+	//@Override
 	public boolean hasSameOriginal(Snapshot other) {
 		if (other == null) {
 			return false;

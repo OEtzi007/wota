@@ -1,6 +1,6 @@
 # settings.txt
 
-AI_PACKAGE_NAMES = bvb, organized
+AI_PACKAGE_NAMES = solitary, davids
 
 IS_GRAPHICAL = true
 
